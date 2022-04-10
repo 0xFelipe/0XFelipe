@@ -6,6 +6,9 @@
   <div>
     <a href="https://www.linkedin.com/in/felipesouzam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://www.instagram.com/0xfelipe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="mailto:felipe-souza-mendes@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230072C6?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+    <a href="mailto:felipe-souza-mendes@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+     <a href="https://twitter.com/0xFelipe" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    
+    
    
   </div>
