@@ -39,8 +39,8 @@ Tenho facilidade em aprender novas tecnologias e sou movido por desafios. Atualm
 
 ### 🌱 Atualmente Aprendendo
 
-- Aprofundando conhecimentos em PHP e JavaScript
-- Explorando frameworks modernos
+- Aprofundando conhecimentos em Java e API RESTful
+- Explorando frameworks
 - Estudando boas práticas de desenvolvimento e arquitetura de software
 
 ---
