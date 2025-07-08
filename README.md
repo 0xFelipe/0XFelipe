@@ -3,8 +3,9 @@
 ## 👨‍💻 Desenvolvedor em Formação
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/felipesouzam/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/felipesouzam/)
 [![Outlook](https://img.shields.io/badge/Outlook-Email-blue?logo=microsoft-outlook)](mailto:felipe-souza-mendes@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5531993680417)
 
 </div>
 
@@ -21,7 +22,10 @@ Tenho facilidade em aprender novas tecnologias e sou movido por desafios. Atualm
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS3" />  
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="JAVA"/>
+  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON"/>
+
 </div>
 
 ### 📚 Formação
